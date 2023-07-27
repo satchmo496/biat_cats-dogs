@@ -62,12 +62,12 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/BIAT/qual
 						}
 					}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
-					{image : 'Cats1.jpg'}, 
-        				{image : 'Cats2.jpg'}, 
-        				{image : 'Cats3.jpg'},
-					{image : 'Cats4.jpg'},
-					{image : 'Cats5.jpg'},
-					{image : 'Cats6.jpg'}
+					{image : 'cats1.jpg'}, 
+        				{image : 'cats2.jpg'}, 
+        				{image : 'cats3.jpg'},
+					{image : 'cats4.jpg'},
+					{image : 'cats5.jpg'},
+					{image : 'cats6.jpg'}
         				], 
 					//Stimulus css (style of the stimuli)
 					stimulusCss : {color:'#31b404','font-size':'2em'}
@@ -85,12 +85,12 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/BIAT/qual
 						}
 					}, 
 					stimulusMedia : [ //Stimuli content as PIP's media objects
-					{image : 'Dogs1.jpg'}, 
-        				{image : 'Dogs2.jpg'}, 
-        				{image : 'Dogs3.jpg'},
-					{image : 'Dogs4.jpg'},
-					{image : 'Dogs5.jpg'},
-					{image : 'Dogs6.jpg'}
+					{image : 'dogs1.jpg'}, 
+        				{image : 'dogs2.jpg'}, 
+        				{image : 'dogs3.jpg'},
+					{image : 'dogs4.jpg'},
+					{image : 'dogs5.jpg'},
+					{image : 'dogs6.jpg'}
         				], 
 					//Stimulus css
 					stimulusCss : {color:'#31b404','font-size':'2em'}
